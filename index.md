@@ -10,7 +10,7 @@ layout: default
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Welcome to LEAPUNI， 实习培训两不误</h3>
+                <h3>Welcome to LEAPUNI,实习培训两不误</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nostrum ab vero temporibus magnam, delectus!</p>
 
                 <div class="media">
