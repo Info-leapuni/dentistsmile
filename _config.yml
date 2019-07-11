@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: LeapUNI
+description: "Learn Engage Apply Perform"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Learn Engage Apply Perform
+    hero_description: 今天进入未来，让我们帮助你成就更好的明天
 
 # Contact form
 api_token: # Enter API token here
@@ -18,8 +18,8 @@ api_token: # Enter API token here
 contact:
     phone: 932 50 540
     emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    email: info@leapuni.com
+    address: Level 45 / 680 George St, <br> Sydney NSW 2000
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,19 +33,19 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: 680 George St, Sydney NSW 2000, Australia
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
+facebook: https://facebook.com
+twitter: https://twitter.com
+instagram: https://instagram.com
+youtube: https://youtube.com
 skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2019 LeapUNI - All rights reserved
 
 # Build settings
 markdown: kramdown
